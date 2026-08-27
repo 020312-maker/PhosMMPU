@@ -1,0 +1,14 @@
+biopython==1.81
+lightgbm==4.6.0
+matplotlib==3.10.7
+numpy==2.4.6
+openpyxl==3.1.5
+pandas==2.3.3
+pyarrow==23.0.1
+scikit-learn==1.8.0
+scipy==1.17.1
+torch>=2.2
+transformers==4.49.0
+tokenizers==0.21.4
+safetensors==0.5.3
+

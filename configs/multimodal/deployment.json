@@ -1,0 +1,13 @@
+{
+  "source_data": "datasets/raw",
+  "processed_data": "data/processed",
+  "artifacts": "artifacts/multimodal",
+  "seed": 20260720,
+  "window": 31,
+  "train_fraction": 0.7,
+  "validation_fraction": 0.15,
+  "test_fraction": 0.15,
+  "modality_dropout": 0.0,
+  "embedding_dim": 64,
+  "pu_prior_multiplier": 2.0
+}
